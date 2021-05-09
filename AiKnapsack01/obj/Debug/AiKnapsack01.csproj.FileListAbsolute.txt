@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\bin\Debug\AiKnapsack01.exe.config
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\bin\Debug\AiKnapsack01.exe
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\bin\Debug\AiKnapsack01.pdb
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\obj\Debug\AiKnapsack01.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\obj\Debug\AiKnapsack01.Form1.resources
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\obj\Debug\AiKnapsack01.Properties.Resources.resources
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\obj\Debug\AiKnapsack01.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\obj\Debug\AiKnapsack01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\obj\Debug\AiKnapsack01.exe
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\obj\Debug\AiKnapsack01.pdb
+C:\Users\Admin\source\repos\AiNguyenMinhTien\AiKnapsack01\obj\Debug\AiKnapsack01.Form2.resources
